@@ -21,15 +21,15 @@ ocupa el ombre de la etiqueta  */
     width: auto;
   }
 
-#navegacion {
-    display: inline;
-}
-
 /* Selector Universal*/
 * {
     font-family: "Gill Sans", sans-serif;
 }
 
+.galeria{
+    width: 30%;
+    height: auto;
+}
 /* Selector de etiqueta:
 Ocupa el nombre de la etiqueta y modifica todas las ocurrencias (todos los nombre iguales).*/
 
