@@ -1,0 +1,41 @@
+/* Selector de estiqueta: 
+ocupa el ombre de la etiqueta  */
+
+.cnco {
+    height: auto;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.textocentrado{
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+
+#navegacion {
+    display: inline;
+}
+
+/* Selector Universal*/
+* {
+    font-family: "Gill Sans", sans-serif;
+}
+
+/* Selector de etiqueta:
+Ocupa el nombre de la etiqueta y modifica todas las ocurrencias (todos los nombre iguales).*/
+
+
+
+footer {
+    text-align: end;
+}
+
